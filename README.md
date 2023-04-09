@@ -2,7 +2,7 @@
 
 # Summary
 
-In my project,I have also used RNNs and Linear regression for stock analysis and prediction.
+In my project,I have used RNNs and Linear regression for stock analysis and prediction.
 
 Objective - To learn about the RNNs and linear regression and to predict the closing price of a stock.
 
